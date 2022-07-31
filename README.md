@@ -37,6 +37,6 @@ Stripe payment
 <a href="https://www.linkedin.com/in/tareq-fleifel-809900107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tareq-fleifel-809900107/" height="30" width="40" /></a>
 </p>
 
-<a href=https://www.youtube.com/watch?v=DwtvLMmZAvk&t=21s>Video LINK/>
+<a href='https://www.youtube.com/watch?v=DwtvLMmZAvk&t=21s'>Video LINK/>
 
 <a href='https://www.buymeacoffee.com/tareqfleyf'>buy me coffee</a>
