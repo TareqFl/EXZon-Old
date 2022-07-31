@@ -1,0 +1,202 @@
+{
+    "watch": [
+        {
+            "name": "VivoWatch",
+            "image": "https://dlcdnwebimgs.asus.com/gain/b77c9539-9e4c-404c-bff2-83abe7fb9704/w185/fwebp",
+            "description": "ASUS VivoWatch is the world's first compact, lightweight and wearable health device that integrates a pair of medical-grade EKG and PPG sensors, as well as ASUS HealthAI technology, providing 24/7 health monitoring and data analysis, as well as personalized health tips and fitness tracking functionality.",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/b77c9539-9e4c-404c-bff2-83abe7fb9704/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/a50da6b7-867a-4204-811a-15d9f6dd5769/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/f2f93c8a-c298-4b22-b301-e6b7eca17c6c/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/1d0a8f3f-91b8-4a0c-8e43-3dd487e0b6b7/w800/fwebp"
+            ],
+            "price": 500,
+            "category": "watch"
+        }
+    ],
+    "phones": [
+        {
+            "name": "ROG Phone 6 Pro",
+            "description": "Qualcomm Snapdragon 8+ Gen 1,LPDDR5 18GB,UFS3.1 512GB,6.78-inch display,6000mAh battery",
+            "image": "https://dlcdnwebimgs.asus.com/gain/0EF005A8-9F07-4802-B2E9-EBDB4D6DA2AF/w185/fwebp",
+            "price": 799,
+            "category": "phone"
+        },
+        {
+            "name": "ROG Phone 6",
+            "description": "Qualcomm Snapdragon 8+ Gen 1,LPDDR5 12GB,UFS3.1 256GB,6.78-inch display,6000mAh battery",
+            "image": "https://dlcdnwebimgs.asus.com/gain/0EF005A8-9F07-4802-B2E9-EBDB4D6DA2AF/w185/fwebp",
+            "price": 699,
+            "category": "phone"
+        },
+        {
+            "name": "ROG Phone 5s Pro",
+            "description": "Qualcomm Snapdragon 888 Plus,LPDDR5 18GB,UFS3.1 512GB,6.78-inch display,6000mAh battery",
+            "image": "https://dlcdnwebimgs.asus.com/gain/C0F4474C-F835-4031-9B11-F7F55CF1A2BA/w185/fwebp",
+            "price": 999,
+            "category": "phone"
+        }
+    ],
+    "laptops": [
+        {
+            "name": "Asus TUF GAMING A15(2022)",
+            "description": "Windows 11,Up to GeForce RTX™ 3070 Laptop GPU,AMD 6800H Processor,MUX Switch,Up to 15.6” QHD 165Hz 100% DCI-P3 Display,Arc Flow Fans™,MIL-STD-810H Standards",
+            "image": "https://dlcdnwebimgs.asus.com/gain/5cd95cf4-afde-4319-9d83-d95a6fbaec3f/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/2aee1bba-45a8-47b1-9077-a725a41502d0/w800",
+                "https://dlcdnwebimgs.asus.com/gain/ed70fe0c-042c-4492-a472-ebdeef1fa9f7/w800",
+                "https://dlcdnwebimgs.asus.com/gain/66755ffc-624a-445a-a5fa-71b987279b5c/w800",
+                "https://dlcdnwebimgs.asus.com/gain/a0f03eb4-ec6b-4e12-9a38-2c3443e09fce/w800"
+            ],
+            "price": 1500,
+            "category": "laptop"
+        },
+        {
+            "name": "Asus TUF GAMING A15(2021)",
+            "description": "Windows 10 Pro,Up to GeForce RTX™ 3060,Up to Intel® Core™ i9-11900H,Up to 15.6” FHD 240Hz 100% sRGB,Dual 83-Blade Fans",
+            "image": "https://dlcdnwebimgs.asus.com/gain/1387056a-60c6-4579-a3f7-ccf65affd7fa/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/769aaa49-031e-4a90-b03c-3091198e95a1/w800",
+                "https://dlcdnwebimgs.asus.com/gain/1fd9e83e-186f-44a3-98bf-54fb7761ea8d/w800",
+                "https://dlcdnwebimgs.asus.com/gain/876885c1-30cc-4f1a-ba8a-789cc206c5e3/w800",
+                "https://dlcdnwebimgs.asus.com/gain/f7f8f263-341c-4da8-98a4-fc5390075678/w800"
+            ],
+            "price": 1200,
+            "category": "laptop"
+        },
+        {
+            "name": "Zenbook S 13 OLED(UM5302, AMD Ryzen 6000 series)",
+            "description": "Windows 11 Pro - ASUS recommends Windows 11 Pro for business,Up to AMD Ryzen™ 7 6800U processor,AMD Radeon™ graphics,Up to 1 TB PCIe 4.0 x4 with 6500 MB/s read speed,Up to 16GB LPDDR5 6400MHz memory,13.3 inch 16:10 2.8K OLED NanoEdge touchscreen,Long-lasting 67Wh battery,Approx. 1 kg light for easy portability",
+            "image": "https://dlcdnwebimgs.asus.com/gain/76609e36-47ce-47fb-8d44-af8b1b3804a0/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/76609e36-47ce-47fb-8d44-af8b1b3804a0/w800",
+                "https://dlcdnwebimgs.asus.com/gain/153be87b-8c7b-4919-9b69-7843cdf3bf19/w800",
+                "https://dlcdnwebimgs.asus.com/gain/ffe2049c-d465-4c75-9378-83f08502d376/w800",
+                "https://dlcdnwebimgs.asus.com/gain/86bafe53-5bb1-41df-84e7-ab6be2b4aa03/w800"
+            ],
+            "price": 1999,
+            "category": "laptop"
+        },
+        {
+            "name": "Zenbook 14X OLED(UX5401, 12th Gen Intel)",
+            "description": "Windows 11 Pro - ASUS recommends Windows 11 Pro for business,Up to 12th gen Intel ® Core ™ i9 processor,Up to Intel ® Iris X ᵉ Graphics,Up to 32GB memory,Up to 1TB SSD storage,Up to 14 inch 4K/UHD OLED NanoEdge touchscreen,NanoEdge 92% screen-to-body ratio,Thunderbolt ™ 4 USB-C ™",
+            "image": "https://dlcdnwebimgs.asus.com/gain/734633e0-9da6-44c2-890b-6323a5b7b002/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/734633e0-9da6-44c2-890b-6323a5b7b002/w800",
+                "https://dlcdnwebimgs.asus.com/gain/5f86b726-e5d3-4bb0-96bd-48a48443ebc6/w800",
+                "https://dlcdnwebimgs.asus.com/gain/63360c73-af4b-42c7-ac09-77265e222b7f/w800",
+                "https://dlcdnwebimgs.asus.com/gain/b43a641a-03e9-4c2e-a83d-b888956b5452/w800"
+            ],
+            "price": 1799,
+            "category": "laptop"
+        }
+    ],
+    "monitors": [
+        {
+            "name": "TUF Gaming VG27AQZ",
+            "description": "TUF Gaming VG27AQZ HDR Gaming Monitor,27 inch WQHD (2560x1440), IPS, 165 Hz(above 144Hz), Extreme Low Motion Blur Sync, G-SYNC Compatible, Adaptive-sync, 1 ms (MPRT), HDR10",
+            "image": "https://dlcdnwebimgs.asus.com/gain/fde62871-7a43-47ed-8f9a-8ced53d155c8/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/fde62871-7a43-47ed-8f9a-8ced53d155c8/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/06045495-ebe8-456a-9bbe-686710b62e4a/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/2e4d8401-ecfb-483f-ad1a-2592651c1c30/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/300efac7-a1d5-4112-a7e3-bdebf6bbb782/w800/fwebp"
+            ],
+            "price": 799,
+            "category": "monitor"
+        },
+        {
+            "name": "ROG Strix XG309CM",
+            "description": "ROG Strix XG309CM Gaming Monitor 29.5 inch, 2560x1080 resolution, up to 220Hz overclocking (144Hz), 1ms (gray to gray), Fast IPS technology, Extreme Low Motion Blur Sync, USB Type-C, 110% sRGB, G- Sync compatibility*, KVM support, Tripod socket.",
+            "image": "https://dlcdnwebimgs.asus.com/gain/5DFCB652-674B-48E9-9515-605AF8CF79BF/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/5DFCB652-674B-48E9-9515-605AF8CF79BF/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/A03D355B-006D-4DF9-AC68-642597336FF1/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/7478FF20-D2E5-4518-BFBA-57D716D713CC/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/1BE4F167-1406-4DEC-9C39-4914879A5FB7/w1000/h732"
+            ],
+            "price": 679,
+            "category": "monitor"
+        },
+        {
+            "name": "TUF Gaming VG30VQL1A",
+            "description": "TUF Gaming VG30VQL1A Curved Gaming Monitor 29.5 inch, 21:9 Ultra-wide WFHD (2560X1080), 200Hz, 1ms MPRT, Extreme Low Motion Blur™, 127% sRGB, HDR, FreeSync™ Premium",
+            "image": "https://dlcdnwebimgs.asus.com/gain/c9a01f7d-ba35-4e1c-9217-407228dac708/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/43a59809-d806-4532-9539-a1abf92d8387/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/c93a2668-c1c1-4b76-9faf-9879c2945382/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/c9a01f7d-ba35-4e1c-9217-407228dac708/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/7609163e-a757-43ac-ad1a-c0ca272e33c6/w800/fwebp"
+            ],
+            "price": 599,
+            "category": "monitor"
+        },
+        {
+            "name": "VP299CL",
+            "description": "ASUS VP299CL Eye Care Monitor 29 inch, 21:9 Ultra-wide FHD (2560 x 1080), IPS, HDR-10, USB-C, 75Hz, Adaptive-Sync/FreeSync™, 1ms MPRT, Low Blue Light, Flicker Free , Wall Mountable",
+            "image": "https://dlcdnwebimgs.asus.com/gain/f12275f7-6090-4676-b0ba-f7c6abe6e7ae/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/2477c80b-a200-47b4-bec5-1cc3af76cf68/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/fbade04c-df95-4b98-ac44-495034f27b2c/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/b5d1aa97-15b2-47a5-8f60-3b0e7b6e8edf/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/c545e653-1113-4853-acf7-bf0d8f1df74a/w800/fwebp"
+            ],
+            "price": 499,
+            "category": "monitor"
+        }
+    ],
+    "motherboards": [
+        {
+            "name": "PRIME H610M-R D4",
+            "description": "Intel® H610 (LGA 1700) mic equipped with PCIe 4.0, M.2 slot, Realtek 1 Gb Ethernet, HDMI®,D-Sub, DVI, USB 3.2 Gen 1 ports, SATA 6 Gbps , COM header, LPT header, TPM header -ATX DDR4 motherboard",
+            "image": "https://dlcdnwebimgs.asus.com/gain/c986af06-4fbb-4bb8-b99d-fa9636b77a33/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/c986af06-4fbb-4bb8-b99d-fa9636b77a33/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/e1f8e33a-f0ce-4825-bed2-6a71c1dc0f12/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/bcdf5434-7ef1-4fa7-ba4b-fce5be99b1f4/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/15a28511-e1c6-4ac1-9f29-d712e62d43d2/w800/fwebp"
+            ],
+            "price": 1999,
+            "category": "motherboard"
+        },
+        {
+            "name": "ROG MAXIMUS Z690 HERO EVA EDITION",
+            "description": "Intel ®  Z690 ATX motherboard with 20+1 power stages, DDR5, Five M.2, USB 3.2 Gen 2x2 front-panel connector, Dual Thunderbolt ™ 4, PCIe ®  5.0, Onboard WiFi 6E and Aura Sync RGB lighting",
+            "image": "https://dlcdnwebimgs.asus.com/gain/E2C4E713-68AD-421F-B3D9-343AA76A98A7/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/E2C4E713-68AD-421F-B3D9-343AA76A98A7/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/9D42E3A6-3904-4AB6-A5F0-ED441298888F/w1000/h732"
+            ],
+            "price": 1599,
+            "category": "motherboard"
+        }
+    ],
+    "accessory": [
+        {
+            "name": "TUF Gaming H1 Wireless",
+            "description": "TUF Gaming H1 Wireless gaming headset with deep bass 7.1 surround sound, Discord and Teamspeak certified microphone, lightweight and comfortable design, 2.4 Ghz connection with PC, Playstation® 5, and Nintendo Switch™ support",
+            "image": "https://dlcdnwebimgs.asus.com/gain/46dd9f1e-ad8c-4972-af87-d60c1dc888d1/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/4e6adde0-2ae0-4dfb-881a-6aa48b31960d/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/13010169-fe76-4776-8ba6-ba4de750c352/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/d485cf8e-b333-4624-a302-9bb15faefd97/w800/fwebp",
+                "https://dlcdnwebimgs.asus.com/gain/9505fa56-e91d-4779-8cbf-d63cecee54a0/w800/fwebp"
+            ],
+            "price": 500,
+            "category": "headphones"
+        },
+        {
+            "name": "ROG Cetra True Wireless",
+            "description": "ROG Cetra True Wireless gaming headset with features such as low-latency wireless connectivity, Active Noise Cancelling (ANC), 27-hour battery life with wireless charging case, IPX4 water resistance, and EQ/virtual 7.1 support via Armory Crate",
+            "image": "https://dlcdnwebimgs.asus.com/gain/92A60392-14F9-411B-A3FA-FC14CC415C59/w185/fwebp",
+            "slides": [
+                "https://dlcdnwebimgs.asus.com/gain/C47AF406-D859-419A-B504-1E5EA38BBDCD/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/9CA9B7DB-DD9F-4201-8EFA-AB853A9C4C48/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/20C4CB7B-AFE7-4967-AE46-0C8029CA0B78/w1000/h732",
+                "https://dlcdnwebimgs.asus.com/gain/E20875AA-84B3-4791-BC1F-BEB3A92CE692/w1000/h732"
+            ],
+            "price": 999,
+            "category": "headphones"
+        }
+    ]
+}
