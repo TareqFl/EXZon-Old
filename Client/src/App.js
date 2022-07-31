@@ -10,7 +10,6 @@ import { createTheme, CssBaseline, ThemeProvider } from '@mui/material'
 import NavBar from './components/navbar/NavBar'
 import Home from './components/homePage/Home'
 import ProductDetails from './components/productPage/ProductDetails'
-import AdminPage from './components/admin/AdminPage'
 import { connect } from 'react-redux'
 
 
@@ -31,7 +30,6 @@ const App = ({ mode }) => {
                 <Switch>
                     <Route exact path={'/'} component={Home} />
                     <Route exact path={'/products/:name'} component={ProductDetails} />
-                    <Route exact path={'/admin'} component={AdminPage} />
                 </Switch>
             </Router>
         </ThemeProvider>
